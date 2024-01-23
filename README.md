@@ -2,6 +2,12 @@
 
 Welcome to the Usability Hub Clone Website repository! This repository contains the HTML and CSS code for a modern and responsive website design. The website is a clone of a user research platform, showcasing various sections such as the top banner, navigation bar, header section, companies section, features section, big features section, examples section, call-to-action section, and a footer.
 
+## Deployed Site
+
+Here is the deployed static site:
+
+[Click Me!](https://shahbelal.github.io/usability-hub-landing-page/)
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/shahbelal/usability-hub-landing-page/blob/main/Snapshots/1.png)
